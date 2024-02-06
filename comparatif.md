@@ -1,0 +1,9 @@
+| Fonctionnalité / Outil     | Figma                             | Balsamiq                            | Axure                               | Mockup World                       | MockFlow                           |
+|-----------------------------|-----------------------------------|-------------------------------------|-------------------------------------|------------------------------------|------------------------------------|
+| Interface intuitive         | Oui                               | Oui                                 | Oui                                 | -                                  | Oui                                |
+| Création de wireframes      | Oui                               | Oui                                 | Oui                                 | Oui                                | Oui                                |
+| Collaboration en temps réel | Oui                               | Non                                 | Oui                                 | -                                  | Oui                                |
+| Bibliothèque de composants  | Oui                               | Oui                                 | Oui                                 | -                                  | Oui                                |
+| Interaction & Prototypage   | Oui                               | Limité                              | Avancé                              | -                                  | Oui                                |
+| Intégration avec d'autres outils | Oui                         | Non                                 | Oui                                 | -                                  | Oui                                |
+| Prix                        | Gratuit (avec certaines limites) | Payant                              | Payant                              | Gratuit                            | Gratuit (avec certaines limites) |
